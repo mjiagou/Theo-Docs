@@ -274,7 +274,8 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: '小蜜蜂' + code, link: 'bee' },
         { text: 'OKANC' + code, link: 'okanc' },
         { text: 'onlyrabbit - 唯兔云' + code, link: 'onlyrabbit' },
-        { text: 'FatCat Cloud - 肥猫云', link: 'fatcat' }
+        { text: 'FatCat Cloud - 肥猫云', link: 'fatcat' },
+        { text: 'lightspeed - 光速云', link: 'lightspeed' }
       ]
     },
     {
