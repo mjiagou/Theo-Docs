@@ -275,7 +275,7 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: 'OKANC' + code, link: 'okanc' },
         { text: 'onlyrabbit - 唯兔云' + code, link: 'onlyrabbit' },
         { text: 'FatCat Cloud - 肥猫云', link: 'fatcat' },
-        { text: 'lightspeed - 光速云', link: 'lightspeed' }
+        { text: 'lightspeed - 光速云' + code, link: 'lightspeed' }
       ]
     },
     {
