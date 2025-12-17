@@ -255,8 +255,9 @@ export function Sidebar_serve(): SidebarItem[] {
       link: 'account-sharing-guide',
       // collapsed: true,
       items: [
-        { text: '银河录像局', link: 'nf-video' },
-        { text: '账号星球', link: 'acc' }
+        { text: '账号星球', link: 'acc' },
+        { text: 'NIKE小店', link: 'nike' },
+        { text: '银河录像局', link: 'nf-video' }
       ]
     },
     {
@@ -274,6 +275,8 @@ export function Sidebar_serve(): SidebarItem[] {
         { text: 'OKANC' + code, link: 'okanc' },
         { text: 'onlyrabbit - 唯兔云' + code, link: 'onlyrabbit' },
         { text: 'FatCat Cloud - 肥猫云', link: 'fatcat' },
+        { text: '奈云' + code, link: 'naiyun' },
+        { text: '美乐云' + code, link: 'meile' },
         { text: 'FlyingBird - 飞鸟机场' + code, link: 'flyingbird' }
       ]
     },

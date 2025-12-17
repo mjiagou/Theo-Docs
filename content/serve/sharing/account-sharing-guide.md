@@ -9,26 +9,34 @@ description: 银河录像局、账号星球等优质账号合租平台推荐，�
 
 <!-- #region price -->
 
-|                 合租平台                 |                                                 官方网站                                                 |          折扣码           |                         扫码直达                         |
-| :--------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------------------: |
-| [银河录像局](/serve/sharing/nf-video.md) | <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/yh" rel="sponsored noreferrer" />  | <Copy text="Theo" bold /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
-|    [账号星球](/serve/sharing/acc.md)     | <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/acc" rel="sponsored noreferrer" /> |             -             |      ![acc =80x](https://i.theojs.cn/docs/acc.webp)      |
+|                 合租平台                 |                                                 官方网站                                                  |          折扣码           |                         扫码直达                         |
+| :--------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-----------------------: | :------------------------------------------------------: |
+|    [账号星球](/serve/sharing/acc.md)     | <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/acc" rel="sponsored noreferrer" />  |             -             |      ![acc =80x](https://i.theojs.cn/docs/acc.webp)      |
+|    [NIKE小店](/serve/sharing/nike.md)    | <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/nike" rel="sponsored noreferrer" /> |             -             |    ![acc =80x](https://i.theojs.cn/docs/nike_qr.webp)    |
+| [银河录像局](/serve/sharing/nf-video.md) |  <Pill icon="mdi:link-variant" name="官网直达" link="https://itheo.top/yh" rel="sponsored noreferrer" />  | <Copy text="Theo" bold /> | ![nf-video =80x](https://i.theojs.cn/docs/nf-video.webp) |
 
 <Links
   :grid="3"
   :items="[
     {
-      image: 'https://i.theojs.cn/logo/nf-video.webp',
-      name: '银河录像局',
-      desc: '资源稳定 支持AI工具 翻车必赔',
-      link: 'https://itheo.top/yh',
-      rel: 'sponsored noreferrer'
-    },
-    {
       image: 'https://i.theojs.cn/logo/acc_logo.webp',
       name: '账号星球',
       desc: '海外社媒 游戏影音 一键购买',
       link: 'https://itheo.top/acc',
+      rel: 'sponsored noreferrer'
+    },
+    {
+      image: 'https://i.theojs.cn/logo/nike_logo.webp',
+      name: 'NIKE小店',
+      desc: '国际账号 社媒影音 一键下单',
+      link: 'https://itheo.top/nike',
+      rel: 'sponsored noreferrer'
+    },
+    {
+      image: 'https://i.theojs.cn/logo/nf-video.webp',
+      name: '银河录像局',
+      desc: '资源稳定 支持AI工具 翻车必赔',
+      link: 'https://itheo.top/yh',
       rel: 'sponsored noreferrer'
     }
   ]"
