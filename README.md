@@ -46,7 +46,7 @@
 ### 🚀 稳定机场推荐 (专线/大流量)
 | 服务商 | 特点 | 优惠 | 直达链接 |
 | :--- | :--- | :--- | :--- |
-| **[青云梯]((https://tv.ygjc.cc/serve/airport/qingyunti)** | **6年老牌**，全线 IPLC 专线，晚高峰稳如老狗 | **8折优惠码**: `0080` | [点击注册](https://tv.ygjc.cc/qyt) |
+| **[青云梯](https://tv.ygjc.cc/serve/airport/qingyunti)** | **6年老牌**，全线 IPLC 专线，晚高峰稳如老狗 | **8折优惠码**: `0080` | [点击注册](https://tv.ygjc.cc/qyt) |
 | **[极连云](https://tv.ygjc.cc/serve/airport/hyperlink)** | **不限设备数**，适合家庭/团队，性价比极高 | 注册立减 | [点击注册](https://tv.ygjc.cc/hyperlink) |
 | **[飞鸟机场](https://tv.ygjc.cc/serve/airport/flyingbird)** | V2Ray 节点，YouTube 8K 秒开，解锁 ChatGPT | 月付优惠 | [点击注册](https://tv.ygjc.cc/flyingbird) |
 
