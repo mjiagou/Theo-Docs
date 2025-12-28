@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://tv.ygjc.cc">
-    <img src="content/public/logo.png" alt="Logo" width="120" height="120">
+    <img src="https://tv.ygjc.cc/favicon.ico" alt="Logo" width="120" height="120">
   </a>
 
   <h1 align="center">解锁海外流媒体 (TV.YGJC.CC)</h1>
@@ -46,15 +46,15 @@
 ### 🚀 稳定机场推荐 (专线/大流量)
 | 服务商 | 特点 | 优惠 | 直达链接 |
 | :--- | :--- | :--- | :--- |
-| **[青云梯](https://tv.ygjc.cc/qingyunti)** | **6年老牌**，全线 IPLC 专线，晚高峰稳如老狗 | **8折优惠码**: `0080` | [点击注册](https://tv.ygjc.cc/qingyunti) |
-| **[极连云](https://tv.ygjc.cc/hyperlink)** | **不限设备数**，适合家庭/团队，性价比极高 | 注册立减 | [点击注册](https://tv.ygjc.cc/hyperlink) |
-| **[飞鸟机场](https://tv.ygjc.cc/flyingbird)** | V2Ray 节点，YouTube 8K 秒开，解锁 ChatGPT | 月付优惠 | [点击注册](https://tv.ygjc.cc/flyingbird) |
+| **[青云梯]((https://tv.ygjc.cc/serve/airport/qingyunti)** | **6年老牌**，全线 IPLC 专线，晚高峰稳如老狗 | **8折优惠码**: `0080` | [点击注册](https://tv.ygjc.cc/qyt) |
+| **[极连云](https://tv.ygjc.cc/serve/airport/hyperlink)** | **不限设备数**，适合家庭/团队，性价比极高 | 注册立减 | [点击注册](https://tv.ygjc.cc/hyperlink) |
+| **[飞鸟机场](https://tv.ygjc.cc/serve/airport/flyingbird)** | V2Ray 节点，YouTube 8K 秒开，解锁 ChatGPT | 月付优惠 | [点击注册](https://tv.ygjc.cc/flyingbird) |
 
 ### 🍿 账号合租推荐 (Netflix/GPT-4)
 | 平台 | 业务范围 | 优惠码 | 直达链接 |
 | :--- | :--- | :--- | :--- |
-| **[银河录像局](https://tv.ygjc.cc/group)** | Netflix, Disney+, ChatGPT Plus, MidJourney | **Theo** (95折) | [点击上车](https://tv.ygjc.cc/group) |
-| **[账号星球](https://tv.ygjc.cc/acc)** | 游戏账号, 影音会员, 苹果 ID | 官方直充 | [点击查看](https://tv.ygjc.cc/acc) |
+| **[银河录像局](https://tv.ygjc.cc/serve/sharing/nf-video)** | Netflix, Disney+, ChatGPT Plus, MidJourney | **Theo** (95折) | [点击上车](https://tv.ygjc.cc/yh) |
+| **[账号星球](https://tv.ygjc.cc/serve/sharing/acc)** | 游戏账号, 影音会员, 苹果 ID | 官方直充 | [点击查看](https://tv.ygjc.cc/acc) |
 
 ---
 
