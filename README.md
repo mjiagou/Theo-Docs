@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://tv.ygjc.cc">
-    <img src="https://tv.ygjc.cc/favicon.ico" alt="Logo" width="120" height="120">
+    <img src="https://tv.ygjc.cc/favicon.ico" alt="Logo" width="48" height="48">
   </a>
 
   <h1 align="center">解锁海外流媒体 (TV.YGJC.CC)</h1>
