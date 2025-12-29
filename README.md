@@ -53,7 +53,7 @@
 ### 🍿 账号合租推荐 (Netflix/GPT-4)
 | 平台 | 业务范围 | 优惠码 | 直达链接 |
 | :--- | :--- | :--- | :--- |
-| **[银河录像局](https://tv.ygjc.cc/serve/sharing/nf-video)** | Netflix, Disney+, ChatGPT Plus, MidJourney | **Theo** (95折) | [点击上车](https://tv.ygjc.cc/yh) |
+| **[银河录像局](https://tv.ygjc.cc/serve/sharing/nf-video)** | Netflix, Disney+, ChatGPT Plus, MidJourney | **ygjc** (95折) | [点击上车](https://tv.ygjc.cc/yh) |
 | **[账号星球](https://tv.ygjc.cc/serve/sharing/acc)** | 游戏账号, 影音会员, 苹果 ID | 官方直充 | [点击查看](https://tv.ygjc.cc/acc) |
 
 ---
