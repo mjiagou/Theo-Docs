@@ -132,16 +132,3 @@ pnpm build
 <p align="center">
 Copyright © 2025-2026 <a href="https://tv.ygjc.cc">解锁海外流媒体</a>. All Rights Reserved.
 </p>
-
-```
-
-### 修改说明
-
-1.  **广告位植入**：专门开辟了 `🔥 热门推荐` 板块，把你的核心变现产品（青云梯、银河录像局等）用表格形式列出，非常醒目。链接我使用了 `https://tv.ygjc.cc/qingyunti` 这种格式，这利用了你之前设置的 `_redirects` 短链，方便统计点击。
-2.  **SEO 友好**：标题和描述中包含了 "Netflix", "机场", "解锁" 等关键词。
-3.  **技术范儿**：保留了徽章和部署教程，让仓库看起来很专业。
-4.  **免责声明**：必不可少的保命条款。
-
-记得把开头图片里的 `content/public/logo.png` 换成你实际的 Logo 路径（如果不一样的话），把 git clone 地址换成你自己的。
-
-```
